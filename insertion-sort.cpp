@@ -12,9 +12,11 @@ void insertionSort(int arr[], int n) {
         int key = arr[i];    // The element we want to insert into the sorted portion
         int j = i - 1;       // Index of the last element in the sorted portion
     
+        // Shift elements of arr[0..i-1] that are greater than 'key'
+        // one position ahead to make space for the key
         while (j >= 0 && arr[j] > key) {
-            arr[j + 1] = arr[j]; 
-            j--;                 
+            arr[j + 1] = arr[j]; // Shift the element to the right
+            j--;                 // Move to the previous element
         }
     
     
