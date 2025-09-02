@@ -12,6 +12,10 @@ void insertionSort(int arr[], int n) {
         int key = arr[i];    // The element we want to insert into the sorted portion
         int j = i - 1;       // Index of the last element in the sorted portion
     
+        while (j >= 0 && arr[j] > key) {
+            arr[j + 1] = arr[j]; 
+            j--;                 
+        }
     
     
     
