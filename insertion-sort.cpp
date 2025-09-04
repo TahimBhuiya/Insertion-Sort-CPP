@@ -52,4 +52,6 @@ int main() {
 
     cout << "Sorted array: ";
     printArray(arr, n); // Print after sorting
+
+    return 0; 
 }
