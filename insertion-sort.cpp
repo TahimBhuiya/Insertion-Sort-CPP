@@ -27,5 +27,5 @@ void insertionSort(int arr[], int n) {
     }
 }
 
-
+// Function to print the array elements
 void printArray(int arr[], int n) {}
