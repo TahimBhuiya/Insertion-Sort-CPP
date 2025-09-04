@@ -42,6 +42,6 @@ int main() {
     // Example array to be sorted
     int arr[] = {12, 11, 13, 5, 6};
 
-
+    // Calculate the number of elements in the array
     int n = sizeof(arr) / sizeof(arr[0]);
 }
