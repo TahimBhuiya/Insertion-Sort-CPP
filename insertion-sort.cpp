@@ -51,5 +51,5 @@ int main() {
     insertionSort(arr, n); // Call insertion sort
 
     cout << "Sorted array: ";
-    printArray(arr, n); 
+    printArray(arr, n); // Print after sorting
 }
