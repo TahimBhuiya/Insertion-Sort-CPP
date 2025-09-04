@@ -49,4 +49,7 @@ int main() {
     printArray(arr, n); // Print before sorting
 
     insertionSort(arr, n); // Call insertion sort
+
+    cout << "Sorted array: ";
+    printArray(arr, n); 
 }
