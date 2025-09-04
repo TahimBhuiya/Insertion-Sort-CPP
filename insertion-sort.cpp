@@ -19,7 +19,7 @@ void insertionSort(int arr[], int n) {
             j--;                 // Move to the previous element
         }
     
-    
+        // Place the key in its correct sorted position    
         arr[j + 1] = key;
     
     
