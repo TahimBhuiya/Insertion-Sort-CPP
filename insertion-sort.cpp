@@ -47,4 +47,6 @@ int main() {
 
     cout << "Original array: ";
     printArray(arr, n); // Print before sorting
+
+    insertionSort(arr, n); 
 }
