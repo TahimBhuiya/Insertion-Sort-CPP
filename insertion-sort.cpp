@@ -31,7 +31,7 @@ void insertionSort(int arr[], int n) {
 void printArray(int arr[], int n) {
 
     for (int i = 0; i < n; i++) {
-        cout << arr[i] << " ";  
+        cout << arr[i] << " ";  // Print each element separated by space
     }
     cout << endl;
 }
