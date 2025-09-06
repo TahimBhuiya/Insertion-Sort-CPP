@@ -28,3 +28,7 @@ It displays the array before and after sorting to help visualize how insertion s
 **Input:**
 Original array:
 12 11 13 5 6
+
+**Output:**
+Sorted array:
+5 6 11 12 13
