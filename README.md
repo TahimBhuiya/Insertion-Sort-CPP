@@ -6,3 +6,5 @@ This C++ program demonstrates the **Insertion Sort** algorithm, a simple and int
 
 1. Iterates through an array, inserting each element into its correct position in the sorted portion of the array.
 2. Sorts numbers in **ascending order**.
+
+It displays the array before and after sorting to help visualize how insertion sort organizes the elements.
