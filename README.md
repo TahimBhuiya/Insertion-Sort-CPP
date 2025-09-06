@@ -32,3 +32,7 @@ Original array:
 **Output:**
 Sorted array:
 5 6 11 12 13
+
+---
+
+## ⚙ How It Works
