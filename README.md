@@ -12,3 +12,5 @@ It displays the array before and after sorting to help visualize how insertion s
 ---
 
 ## 🔧 Features
+
+- **Step-by-Step Sorting**: Iteratively inserts elements into their correct positions.
