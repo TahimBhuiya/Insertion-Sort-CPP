@@ -24,3 +24,7 @@ It displays the array before and after sorting to help visualize how insertion s
 ---
 
 ## 📋 Example Run
+
+**Input:**
+Original array:
+12 11 13 5 6
