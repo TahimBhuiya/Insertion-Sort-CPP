@@ -20,3 +20,7 @@ It displays the array before and after sorting to help visualize how insertion s
 * **Array Input**: Works with any array of integers defined in the code.
 
 * **Fully Commented Code**: Easy to understand and modify.
+
+---
+
+## 📋 Example Run
