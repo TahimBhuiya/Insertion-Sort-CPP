@@ -8,3 +8,7 @@ This C++ program demonstrates the **Insertion Sort** algorithm, a simple and int
 2. Sorts numbers in **ascending order**.
 
 It displays the array before and after sorting to help visualize how insertion sort organizes the elements.
+
+---
+
+## 🔧 Features
