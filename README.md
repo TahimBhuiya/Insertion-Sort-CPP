@@ -44,3 +44,4 @@ Sorted array:
 2. **Select Key Element**
    - Take the current element as `key` to insert into the sorted portion.
 3. **Shift Elements**
+   - Compare `key` with previous elements and shift all greater elements one position to the right.
