@@ -46,3 +46,4 @@ Sorted array:
 3. **Shift Elements**
    - Compare `key` with previous elements and shift all greater elements one position to the right.
 4. **Insert Key**
+   - Place the `key` in its correct sorted position.
