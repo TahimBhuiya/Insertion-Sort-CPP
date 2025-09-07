@@ -38,3 +38,5 @@ Sorted array:
 ## ⚙ How It Works
 
 1. **Iterate Through Array**
+
+   - Start from the second element (`index 1`) since the first element is trivially “sorted.”
