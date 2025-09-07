@@ -48,3 +48,4 @@ Sorted array:
 4. **Insert Key**
    - Place the `key` in its correct sorted position.
 5. **Repeat**
+   - Continue until the entire array is sorted.
