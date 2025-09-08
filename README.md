@@ -66,3 +66,5 @@ Sorted array:
 g++ insertion_sort.cpp -o insertion_sort
 ./insertion_sort
 ```
+
+### 2️⃣ Using an online C++ compiler
