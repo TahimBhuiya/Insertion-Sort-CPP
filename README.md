@@ -55,3 +55,5 @@ Sorted array:
 ## 🛠 How to Run
 
 ### You can run this code in two ways:
+
+### 1️⃣ Using a local C++ compiler
