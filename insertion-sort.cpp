@@ -19,9 +19,6 @@ void insertionSort(int arr[], int n) {
     
         // Place the key in its correct sorted position    
         arr[j + 1] = key;
-    
-    
-    
     }
 }
 
@@ -33,7 +30,6 @@ void printArray(int arr[], int n) {
     }
     cout << endl;
 }
-
 
 int main() {
 
