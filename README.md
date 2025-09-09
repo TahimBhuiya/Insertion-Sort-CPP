@@ -63,7 +63,7 @@ Sorted array:
 - Compile and run it with your C++ compiler (e.g., Dev-C++, Code::Blocks, Visual Studio, g++):
 
 ```bash
-g++ insertion_sort.cpp -o insertion_sort
+g++ insertion-sort.cpp -o insertion_sort
 ./insertion_sort
 ```
 
